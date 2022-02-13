@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12bfdcd-3717-4876-aece-4f00df441862" name="Changes" comment="" />
+    <list default="true" id="c12bfdcd-3717-4876-aece-4f00df441862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/Da_shoshin_header_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Da_shoshin_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nepalmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +55,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shres\Documents\Projects\Da Shoshin" />
       <recent name="C:\Users\shres\Documents\Projects\Da Shoshin\assets" />
       <recent name="C:\Users\shres\Documents\Projects\Da Shoshin\assets\images" />
     </key>
@@ -46,7 +80,7 @@
       <workItem from="1644046123942" duration="7778000" />
       <workItem from="1644569730892" duration="5047000" />
       <workItem from="1644670533739" duration="596000" />
-      <workItem from="1644744128017" duration="598000" />
+      <workItem from="1644744128017" duration="884000" />
     </task>
     <servers />
   </component>
